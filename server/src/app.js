@@ -27,7 +27,7 @@ function adminAuthenticateToken(req, res, next) {
     });
 }
 
-// user middleware
+// user
 const userAuthenticateToken = async (req, res, next) => {
     try {
         const authHeader = req.headers['authorization'];
