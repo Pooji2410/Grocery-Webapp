@@ -14,7 +14,8 @@ const models = require("./models/schema");
 
 app.use(cors());
 
-// admin middelware
+//admin
+
 function adminAuthenticateToken(req, res, next) {
     const authHeader = req.headers['authorization'];
     const token = authHeader && authHeader.split(' ')[1];
