@@ -64,7 +64,7 @@ app.get('/userprofile/:id', async (req, res) => {
   });
 
 
-// API endpoint to add a category
+// API endpoint to add a category 
 app.post('/add-category', async (req, res) => {
     try {
         const { category, description } = req.body;
