@@ -48,7 +48,7 @@ Follow these steps to set up the application on your local machine
 ### 1. Clone the Repository
 
 ```bash
-    git clone https://github.com/Pooji2410/grocery_webapp_Gmart-.git 
+    git clone https://github.com/Pooji2410/Grocery-Webapp 
 ```
 
 ### 2. Navigate to the cloned repository
@@ -79,7 +79,7 @@ Open another terminal in VS Code and run the following commands to install the n
 ```bash 
     cd server
     npm install      # install the required packages
-    node server.js   # or use nodemon for automatic restarts with `nodemon server.js`
+    node index.js   # or use nodemon for automatic restarts with `nodemon server.js`
 ```
 The backend server will start on **PORT 5000** by default. You can adjust this setting in the .env file if needed.
 
