@@ -54,7 +54,7 @@ Follow these steps to set up the application on your local machine
 ### 2. Navigate to the cloned repository
 
 ```bash 
-    cd online-learning-platform
+    cd Grocery-Webapp
 ```
 
 ### 3. Configuration Settings
