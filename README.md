@@ -37,7 +37,7 @@ This grocery web application is designed to provide a convenient shopping experi
 
 **Project Report:** [View the full project report (PDF)](https://drive.google.com/file/d/1R8IOv4PzRfpkKyYWqJhbWdX9c9JcbYDs/view?usp=sharing)
 
-**Demo Video:** [To view the demo video](https://drive.google.com/file/d/1WlL_IPcruAdezENqhW-MiZBTZ4hluu4A/view?usp=sharing)
+**Demo Video:** [To view the demo video](https://drive.google.com/file/d/1ZGGj670ndfL_4MFN6Mr1sghotM4NmXz6/view?usp=sharing)
 
 ---
 
